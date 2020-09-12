@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My last winning chess game:
+
 ![](wgame.svg)
 
 
