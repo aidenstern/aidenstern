@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 My last winning chess game:
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/aidenstern/aidenstern/master/wgame.svg" alt="alt text" width="400" height="400"/>
 </div>
 
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://www.chess.com/register?ref_id=70352704"> Play me on chess! </a> 
 </p>
 
