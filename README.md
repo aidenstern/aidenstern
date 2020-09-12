@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My last winning chess game:
+![](wgame.svg)
+
+
+<p style="text-align: center;">
+  <a href="https://www.chess.com/register?ref_id=70352704"> Play me on chess! </a> 
+</p>
+
+
