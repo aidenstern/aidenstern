@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My last winning chess game:
+<p align="center">My last winning chess game:</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aidenstern/aidenstern/master/wgame.svg" alt="alt text" width="400" height="400"/>
