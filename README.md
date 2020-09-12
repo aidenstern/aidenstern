@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 My last winning chess game:
 
-![](wgame.svg)
+<div style="text-align: center;">
+  <img src="wgame.svg" alt="alt text" width="400" height="400"/>
+</div>
 
 
 <p style="text-align: center;">
