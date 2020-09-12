@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">My last winning chess game:</p>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/aidenstern/aidenstern/master/wgame.svg" alt="alt text" width="400" height="400"/>
-</div>
+</p>
 
 
 <p align="center">
