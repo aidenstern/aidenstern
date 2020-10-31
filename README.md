@@ -15,19 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Try a puzzle:</p>
-
-<div>
-<iframe 
-src="https://www.chess.com/daily_puzzle" 
-style="width: 400px; height: 450px;">
-</iframe>
-</div>
-
-
-
 <p align="center">
-  <a href="https://www.chess.com/register?ref_id=70352704"> Play me on chess! </a> 
+  <a href="https://www.chess.com/register?ref_id=70352704"> Play me on chess.com! </a> 
 </p>
 
 
