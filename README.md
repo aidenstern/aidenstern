@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 <p align="center">Try a puzzle:</p>
 
-<figure>
-  <iframe src="https://www.chess.com/daily_puzzle" style="width: 400px; height: 450px;"></iframe>
-</figure>
+<div>
+<iframe 
+src="https://www.chess.com/daily_puzzle" 
+style="width: 400px; height: 450px;">
+</iframe>
+</div>
+
 
 
 <p align="center">
