@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">My last winning chess game:</p>
+<p align="center">Try a puzzle:</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aidenstern/aidenstern/master/wgame.svg" alt="alt text" width="400" height="400"/>
-</p>
+<figure>
+  <iframe src="https://www.chess.com/daily_puzzle" style="width: 400px; height: 450px;"></iframe>
+</figure>
 
 
 <p align="center">
