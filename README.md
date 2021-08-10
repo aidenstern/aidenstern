@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3> :sunglasses: Hey! Nice to see you. </h3>
 
 
-<p>Welcome to my github! </br> I'm Aiden, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg" width="13"/> <b>Mesa, AZ</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg" width="13"/> <b>Maryland</b>. I'm a junior at <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg" width="13"/> <b>University of Maryland</b> studying Computer Science and a web development intern at Amtrak. </p>
+<p>Welcome to my github! </br> I'm Aiden, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg" width="13"/> <b>Mesa, AZ</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg" width="13"/> <b>Maryland</b>. I'm a junior at <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg" width="13"/> <b>University of Maryland</b> studying Computer Science and a web development intern at <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Amtrak_logo_2.svg" width="26"/> <b>Amtrak</b>. </p>
 
 <hr/>
 
