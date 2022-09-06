@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 
 <hr/>
 
-[![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenstern)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aidenstern.aidenstern)
 
 
