@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img alt="Java" src="https://img.shields.io/badge/-Java-purple?style=flat-square&logo=Java&logoColor=white" />
 </p>
 
-<hr/>
+
 
 
 
