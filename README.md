@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3> :sunglasses: Hey! Nice to see you. </h3>
 
 
-<p>Welcome to my github! </br> I'm Aiden, a Software Engineer and student from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg" width="13"/> <b>Arizona</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg" width="13"/> <b>Colorado</b>. I just recently graduated from <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg" width="13"/> <b>University of Maryland</b> where I studied Computer Science. Right now I work at <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Palantir_Technologies_logo.svg" style="background-color:white;" height="12" /> as a Forward Deployed Engineer!
+<p>Welcome to my github! </br> I'm Aiden, a Software Engineer and student from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg" width="13"/> <b>Arizona</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg" width="13"/> <b>Colorado</b>. I just recently graduated from <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg" width="13"/> <b>University of Maryland</b> where I studied Computer Science. Right now I work at [Palantir](https://www.palantir.com/) as a Forward Deployed Engineer!
 
 <hr/>
 
