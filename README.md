@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my github! </br> I'm Aiden, a Software Engineer originally from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg" width="13"/> <b>Arizona</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg" width="13"/> <b>Colorado</b>. I just recently graduated from <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg" width="13"/> <b>University of Maryland</b> where I studied Computer Science. Right now I work at <b><a href="https://www.palantir.com">Palantir</a></b> as a Forward Deployed Engineer!
 
+<!--
 <hr/>
 
 <h3>Technologies I code with</h3>
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-purple?style=flat-square&logo=Java&logoColor=white" />
 </p>
+-->
 
 
 
